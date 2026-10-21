@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Reloj del Manager",
+    "slug": "reloj-del-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#000000",
+    "ios": {
+      "bundleIdentifier": "com.relojdelmanager.app"
+    },
+    "android": {
+      "package": "com.relojdelmanager.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
